@@ -1,4 +1,4 @@
-# randomme
+# randomme 
 
 ## Project setup
 ```
@@ -20,5 +20,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Customize configuration and Data Credit goes to this link
+See [Link](https://randomuser.me/).
